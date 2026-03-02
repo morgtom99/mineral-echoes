@@ -1,0 +1,63 @@
+{
+  "title": "Mineral Echoes",
+  "description": "This theme captures the opulent, intricate beauty of precious minerals and crystalline formations, with a rich, detailed aesthetic.",
+  "seedPalette": [
+    "#2C3E50",
+    "#1A5276",
+    "#962D3E",
+    "#B8860B",
+    "#2E8B57",
+    "#6A0DAD",
+    "#5DADE2"
+  ],
+  "colorConcepts": [
+    [
+      "schist",
+      "slate",
+      "strata"
+    ],
+    [
+      "azurite",
+      "lapis",
+      "abyss"
+    ],
+    [
+      "garnet",
+      "ruby",
+      "magma"
+    ],
+    [
+      "pyrite",
+      "amber",
+      "vein"
+    ],
+    [
+      "emerald",
+      "malachite",
+      "jade"
+    ],
+    [
+      "amethyst",
+      "tanzanite",
+      "geode"
+    ],
+    [
+      "aquamarine",
+      "opal",
+      "crystal"
+    ]
+  ],
+  "primary": "208 65% 28%",
+  "background": "210 29% 24%",
+  "accent": "240 18% 20%",
+  "imageStyle": {
+    "complexity": "maximal",
+    "style": "abstract",
+    "detail": "detailed"
+  },
+  "id": "theme-mineral-echoes",
+  "repository": "mineral-echoes",
+  "owner": "morgtom99",
+  "basePath": "",
+  "branch": ""
+    }
