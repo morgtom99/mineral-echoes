@@ -53,11 +53,12 @@
   "imageStyle": {
     "complexity": "maximal",
     "style": "abstract",
-    "detail": "detailed"
+    "detail": "detailed",
+    "dimension": "flat",
+    "lighting": "soft"
   },
   "id": "theme-mineral-echoes",
   "repository": "mineral-echoes",
   "owner": "morgtom99",
-  "basePath": "",
-  "branch": ""
-    }
+  "branch": "main"
+}
