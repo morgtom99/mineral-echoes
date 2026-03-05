@@ -55,10 +55,20 @@
     "style": "abstract",
     "detail": "detailed",
     "dimension": "flat",
-    "lighting": "soft"
+    "lighting": "soft",
+    "texture": "none"
   },
   "id": "theme-mineral-echoes",
   "repository": "mineral-echoes",
   "owner": "morgtom99",
-  "branch": "main"
+  "branch": "main",
+  "colorDescriptions": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
 }
